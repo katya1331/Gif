@@ -1,0 +1,10 @@
+C:\Users\305-11\Desktop\forrat\Новая папка (2)\VAR7\bin\Debug\VAR7.exe.config
+C:\Users\305-11\Desktop\forrat\Новая папка (2)\VAR7\bin\Debug\VAR7.exe
+C:\Users\305-11\Desktop\forrat\Новая папка (2)\VAR7\bin\Debug\VAR7.pdb
+C:\Users\305-11\Desktop\forrat\Новая папка (2)\VAR7\obj\Debug\VAR7.csproj.AssemblyReference.cache
+C:\Users\305-11\Desktop\forrat\Новая папка (2)\VAR7\obj\Debug\VAR7.Form1.resources
+C:\Users\305-11\Desktop\forrat\Новая папка (2)\VAR7\obj\Debug\VAR7.Properties.Resources.resources
+C:\Users\305-11\Desktop\forrat\Новая папка (2)\VAR7\obj\Debug\VAR7.csproj.GenerateResource.cache
+C:\Users\305-11\Desktop\forrat\Новая папка (2)\VAR7\obj\Debug\VAR7.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\forrat\Новая папка (2)\VAR7\obj\Debug\VAR7.exe
+C:\Users\305-11\Desktop\forrat\Новая папка (2)\VAR7\obj\Debug\VAR7.pdb
